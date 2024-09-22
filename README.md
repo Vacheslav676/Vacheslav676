@@ -13,6 +13,7 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-a6fbb6?style=for-the-badge&logo=Gradle&logoColor=810b42)
 ![GitHub](https://img.shields.io/badge/-GitHub-a6fbb6?style=for-the-badge&logo=GitHub&logoColor=810b42)
 ![Docker](https://img.shields.io/badge/-Docker-a6fbb6?style=for-the-badge&logo=Docker&logoColor=810b42)
-
-
+![HTML](https://img.shields.io/badge/-HTML-a6fbb6?style=for-the-badge&logo=HTML&logoColor=810b42)
+![CSS](https://img.shields.io/badge/-CSS-a6fbb6?style=for-the-badge&logo=CSS&logoColor=810b42)
+![CI/CD](https://img.shields.io/badge/-CI/CD-a6fbb6?style=for-the-badge&logo=CI/CD&logoColor=810b42)
 
