@@ -1,4 +1,4 @@
-[![Header](https://github.com/Vacheslav676/Vacheslav676/blob/main/assets/scaled.jpg)]
+![Header](https://github.com/Vacheslav676/Vacheslav676/blob/main/assets/header.jpg)
 
 👤 ✨ About me
 
